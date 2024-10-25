@@ -6,7 +6,7 @@ const Footer = () => {
     <div className='bg-white h-auto flex flex-col pt-28'>
       <div className='flex items-center justify-center'>
         {/* Use flex to arrange images in a row */}
-        <div className='lg:flex-row flex flex-col space-y-6 lg:space-y-0 lg:space-x-36 space-x-4'>
+        <div className='lg:flex-row flex flex-col space-y-6 lg:space-y-0 lg:space-x-12 space-x-4'>
           <Image
             src="/image2.png"
             alt='App Store'
@@ -38,7 +38,7 @@ const Footer = () => {
         </div>
       </div>
       <div className='flex justify-between'>
-      <div className='lg:pl-10 px-1 pt-20 w-full max-w-4xl'>
+      <div className='lg:pl-10 px-1 pt-20 w-full max-w-xl'>
         <h1 className='font-bold text-[#1D2D35] text-3xl pb-8'>
         We&apos;re here to help.
         </h1>
@@ -64,7 +64,7 @@ const Footer = () => {
         </div>
       </div>
       </div>
-      <div className='flex lg:flex-row flex-col justify-center items-center text-center lg:pl-[800px] lg:-translate-y-64 text-2xl'>
+      <div className='flex lg:flex-row flex-col justify-center items-center text-center lg:pl-[500px] lg:-translate-y-64 text-2xl'>
       <ul className='mr-12'>
       <h2 className='text-[#1D2D35] font-bold'>Products</h2>
         <li className='text-[#1E64E6] underline mt-4'>Pricing</li>
