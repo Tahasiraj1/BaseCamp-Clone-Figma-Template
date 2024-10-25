@@ -65,7 +65,7 @@ const Footer = () => {
       </div>
       </div>
       <div className='flex lg:flex-row flex-col justify-center items-center text-center lg:pl-[500px] lg:-translate-y-64 text-2xl'>
-      <ul className='mr-12'>
+      <ul className='mr-6'>
       <h2 className='text-[#1D2D35] font-bold'>Products</h2>
         <li className='text-[#1E64E6] underline mt-4'>Pricing</li>
         <li className='text-[#1E64E6] underline mt-2'>Features</li>
@@ -74,7 +74,7 @@ const Footer = () => {
         <li className='text-[#1E64E6] underline mt-2'>Updates</li>
         <li className='text-[#1E64E6] underline mt-2'>Status</li>
       </ul>
-      <ul className='mr-12'>
+      <ul className='mr-6'>
       <h2 className='text-[#1D2D35] font-bold'>Company</h2>
         <li className='text-[#1E64E6] underline mt-4'>About</li>
         <li className='text-[#1E64E6] underline mt-2'>Customers</li>
@@ -83,7 +83,7 @@ const Footer = () => {
         <li className='text-[#1E64E6] underline mt-2'>Podcast</li>
         <li className='text-[#1E64E6] underline mt-2'>Jobs</li>
       </ul>
-      <ul className='mr-12'>
+      <ul className='mr-6'>
       <h2 className='text-[#1D2D35] font-bold translate-y-6'>Resources</h2>
         <li className='text-[#1E64E6] underline mt-8'>Support</li>
         <li className='text-[#1E64E6] underline mt-2'>Learn</li>
