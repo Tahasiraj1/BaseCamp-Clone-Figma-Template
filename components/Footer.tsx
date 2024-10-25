@@ -38,7 +38,7 @@ const Footer = () => {
         </div>
       </div>
       <div className='flex justify-between'>
-      <div className='lg:px-36 px-1 pt-20 w-full max-w-4xl'>
+      <div className='lg:pl-10 px-1 pt-20 w-full max-w-4xl'>
         <h1 className='font-bold text-[#1D2D35] text-3xl pb-8'>
         We&apos;re here to help.
         </h1>
