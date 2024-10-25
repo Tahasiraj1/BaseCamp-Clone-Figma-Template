@@ -37,7 +37,7 @@ const Footer = () => {
           />
         </div>
       </div>
-      <div className='flex justify-between'>
+      <div className='flex flex-col justify-between'>
       <div className='lg:pl-10 px-1 pt-20 w-full max-w-xl'>
         <h1 className='font-bold text-[#1D2D35] text-3xl pb-8'>
         We&apos;re here to help.
@@ -45,7 +45,7 @@ const Footer = () => {
         <p className='text-[#1D2D35] text-lg'>
         Always humans, never bots. For pre-sales questions, existing customers who need a hand, or other inquiries, <span className='text-[#1E64E6] underline'><strong>contact us</strong></span> and <strong>we&apos;ll get back to you within an hour.</strong>
         </p>
-        <div className='border rounded-lg w-full max-w-3xl mt-6 p-4 flex'>
+        <div className='border rounded-lg w-full max-w-md mt-6 p-4 flex'>
         <p className='font-semibold text-[#1D2D35] text-lg flex'>
         If you love Basecamp, you&apos;ll love
             <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
